@@ -1,0 +1,17 @@
+*/data
+*.csv
+*.db
+*.sqlite
+*.pickle
+*.yaml
+*.json
+*.log
+*.log.*
+*.log-*
+*.log/*
+*.pkl
+*.checkpoint
+*.h5
+*.hdf5
+*.model
+*.model.*
