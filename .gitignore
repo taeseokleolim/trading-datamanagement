@@ -15,3 +15,6 @@
 *.hdf5
 *.model
 *.model.*
+*.zip
+*.mst
+*.xlsx
